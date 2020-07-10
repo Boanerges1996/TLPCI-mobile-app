@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "559263760450",
+    "firebase_url": "https://tlpci-fd34e.firebaseio.com",
+    "project_id": "tlpci-fd34e",
+    "storage_bucket": "tlpci-fd34e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559263760450:android:1519b32eb4f015f9a7addb",
+        "android_client_info": {
+          "package_name": "com.example.church_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559263760450-02ubula65vquvohnrrgaohd15dpr5ejs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-hibqBMHBgnwen5CYvTM45kSdRqD3Iug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559263760450-02ubula65vquvohnrrgaohd15dpr5ejs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
